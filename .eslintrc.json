@@ -40,7 +40,8 @@
       "jsx": true
     },
     "ecmaVersion": "latest",
-    "sourceType": "module"
+    "sourceType": "module",
+    "experimentalObjectRestSpread": true
   },
   "settings": {
     "import/resolver": {
