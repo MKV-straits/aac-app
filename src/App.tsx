@@ -9,6 +9,10 @@ import Signup from "./Signup";
 import "./App.css";
 
 function App() {
+  function empty() {
+    return true;
+  }
+  empty();
   return (
     <>
       <nav>
